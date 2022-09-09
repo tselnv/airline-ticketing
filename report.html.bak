@@ -1,0 +1,150 @@
+<html>
+    <head>
+        <title>Flights of KholkhozAvia</title>
+        <style type="text/css">
+            TABLE {
+             background: rgb(54, 78, 82); /* Цвет фона таблицы */
+             color: white; /* Цвет текста */
+            }
+            TD {
+             background: rgb(215, 215, 223); /* Цвет фона ячеек */
+             color: rgb(20, 14, 14); /* Цвет текста */
+            }
+           </style>
+    </head>
+
+    <body>
+        <h1>Flights</h1>
+        <!-- Flights -->
+        <table>
+            <thead>
+                <tr>
+                    <th>Seat</th>
+                    <th>Passenger</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>4</td>
+                    <td>BonchBruevich</td>
+                </tr>
+                <tr>
+                    <td>21</td>
+                    <td>TselNickolayValerievich</td>
+                </tr>
+                <tr>
+                    <td>16</td>
+                    <td>ZorgPetrIvanovich</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Seat</th>
+                    <th>Passenger</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>4</td>
+                    <td>BonchBruevich</td>
+                </tr>
+                <tr>
+                    <td>16</td>
+                    <td>ZorgPetrIvanovich</td>
+                </tr>
+                <tr>
+                    <td>21</td>
+                    <td>TselNickolayValerievich</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Seat</th>
+                    <th>Passenger</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>21</td>
+                    <td>TselNickolayValerievich</td>
+                </tr>
+                <tr>
+                    <td>16</td>
+                    <td>ZorgPetrIvanovich</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Seat</th>
+                    <th>Passenger</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>16</td>
+                    <td>ZorgPetrIvanovich</td>
+                </tr>
+                <tr>
+                    <td>21</td>
+                    <td>TselNickolayValerievich</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Seat</th>
+                    <th>Passenger</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>37</td>
+                    <td>IvanovIvanIvanovich</td>
+                </tr>
+                <tr>
+                    <td>24</td>
+                    <td>PetrovPetrPetrovich</td>
+                </tr>
+                <tr>
+                    <td>60</td>
+                    <td>ZukermanDazdrapermaLudvigovna</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Seat</th>
+                    <th>Passenger</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>24</td>
+                    <td>PetrovPetrPetrovich</td>
+                </tr>
+                <tr>
+                    <td>37</td>
+                    <td>IvanovIvanIvanovich</td>
+                </tr>
+                <tr>
+                    <td>60</td>
+                    <td>ZukermanDazdrapermaLudvigovna</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
+
